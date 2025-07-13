@@ -6,7 +6,7 @@ Minimal-API was used as backend to serve the data from the SqlServer database di
 
 
 ## Documentation
-* Index.html serves as the front end for this to do app, which used bootstrap for the view generation. 
+* Index.html serves as the front end for this to do app, which uses bootstrap for the view generation. 
 * In the "wwwroot" folder all the scripts necessary for the frontend (user facing) is found and can be launched by live server.
 * Sweet Alerts is used as the notification generator.
 * javascript is used to generate the content of the list dynamically.
